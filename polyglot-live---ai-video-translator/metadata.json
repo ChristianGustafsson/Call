@@ -1,0 +1,8 @@
+{
+  "name": "Polyglot Live - AI Video Translator",
+  "description": "A real-time video call simulation using Gemini Live API for low-latency translation and speech-to-speech interaction, demonstrating the 'AI Agent' component of a modern CPaaS stack.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
